@@ -1,0 +1,151 @@
+1. Add prisoner.
+2. Add guard.
+3. Display All.
+4. Search.
+5. Search by crime.
+6. Report an activity.
+7. End programe.
+Your choice: 1
+How many? 2
+
+Enter name: tahmid
+Enter ID: 59
+Enter offence: theft
+Enter sentence: 10
+Enter assigned cell: 159
+
+Prisoner added.
+
+
+Enter name: niloy
+Enter ID: 28
+Enter offence: murder
+Enter sentence: 50
+Enter assigned cell: 128
+
+Prisoner added.
+
+Your choice: 2
+How many? 1
+
+Enter name: mahim 
+Enter ID: 23 
+Enter post: Watchtower (North)
+Enter salary: 1200
+
+Guard added.
+
+Your choice: 4
+1. Prisoner
+2. Guard
+
+Choose: 1
+Enter name: tahmid
+
+Choose one of the following:
+1. Increase sentence
+2. Decrease sentence
+3. Change cell
+4. Remove prisoner
+Your choice: 1
+How many months? 6
+Total sentence for tahmid is 16 months.
+
+
+Your choice: 4
+1. Prisoner
+2. Guard
+choose: 1
+Enter name: tahmid
+
+Choose one of the following:
+1. Increase sentence
+2. Decrease sentence
+3. Change cell
+4. Remove prisoner
+Your choice: 3
+Which cell? 160
+Cell changed successfully.
+
+
+Your choice: 5
+Enter crime you wanna search: murder
+
+Name: niloy
+ID: 28
+Offence: murder
+Sentence: 50
+Cell: 128
+
+
+Your choice: 6
+
+1. Library work
+2. Cleaning
+3. Gardening
+4. Misconduct
+5. Breaking attempt
+6. Violence
+
+Enter activity: 2
+Enter prisoner name: tahmid
+Enter service duration: 10
+Prisoner tahmid was rewarded with a decrease of 2 months.
+
+
+Your choice: 6
+
+Enter activity: 5
+Enter prisoner name: niloy
+Enter degree of offence: 3
+Prisoner niloy was penalised with an increase of 30 months.
+
+Your choice: 4
+1. Prisoner
+2. Guard
+1
+Enter name: niloy
+
+Choose one of the following:
+1. Increase sentence
+2. Decrease sentence
+3. Change cell
+4. Remove prisoner
+Your choice: 4
+Prisoner has been removed.
+
+
+Your choice: 4
+1. Prisoner
+2. Guard
+Choose: 2
+Enter name: mahim
+
+Choose one of the following:
+1. Change salary
+2. Change post
+3. Remove guard
+Your choice: 2
+Enter new post: Watchtower (South) 
+
+Post changed successfully.
+
+Your choice: 3
+                                Prisoner's list
+
+Name: tahmid
+ID: 59
+Offence: theft
+Sentence: 14
+Cell: 160
+
+                                Guard's list
+
+Name: mahim
+ID: 23
+Post: Watchtower (South)
+Salary: 1200
+
+
+Your choice: 7
+Program ending.....
